@@ -1,7 +1,7 @@
 * {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
 }
 
 header {
@@ -9,6 +9,21 @@ header {
     padding: 1%;
 }
 
-h1 {display: inline-block;
-font-size: 2.5em;
-font-weight: bold;}
+h1 {
+    display: inline-block;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    vertical-align: top;
+}
+
+body {background-color: rgb(233, 218, 218);}
+
+.bottoni {
+    background-color: white;
+    margin-left: 15em;
+    margin-right: 15em;
+    display: inline-block;
+}
+
+.riquadri {background-color: white;}
