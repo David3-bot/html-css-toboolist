@@ -6,7 +6,7 @@
 
 header {
     background-color: white;
-    padding: 1%;
+    padding: 0.5rem 1rem;
 }
 
 h1 {
@@ -15,6 +15,7 @@ h1 {
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     vertical-align: top;
+    
 }
 
 body {background-color: rgb(233, 218, 218);}
@@ -23,7 +24,9 @@ body {background-color: rgb(233, 218, 218);}
     background-color: white;
     margin-left: 15em;
     margin-right: 15em;
-   
+    width: 920px;
+    margin 0: auto;
+    border-top: 32px
 }
 
 .riquadri {background-color: white;
