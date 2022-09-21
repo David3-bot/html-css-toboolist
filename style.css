@@ -10,12 +10,13 @@ header {
 }
 
 h1 {
-    display: inline-block;
+    display: inline-block; 
     font-size: 2em;
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     vertical-align: top;
     
+
 }
 
 body {background-color: rgb(233, 218, 218);}
@@ -25,8 +26,10 @@ body {background-color: rgb(233, 218, 218);}
     margin-left: 15em;
     margin-right: 15em;
     width: 920px;
-    margin 0: auto;
-    border-top: 32px
+    border-top: 32px;
+    display: inline-block;
+    
+    
 }
 
 .riquadri {background-color: white;
@@ -36,3 +39,4 @@ body {background-color: rgb(233, 218, 218);}
 
 #freccia {color: green;
 vertical-align: auto;}
+
